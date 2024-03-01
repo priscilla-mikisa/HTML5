@@ -1,0 +1,188 @@
+#container1{
+    background-color: rgba(160, 153, 153, 0.993);
+}
+#container2{
+background-color: beige;
+padding: 2px;
+margin:5%;
+margin-top: 10%;
+border: 1px solid white;
+border-radius: 5px;
+}
+.navbar{
+    background-color: black;
+    display:flex;
+    gap: 5%;
+    color:beige;
+    padding:2px;
+}
+.im1{
+    border-radius: 2px;
+    max-width: 50px;
+    max-height: 100%;
+    color: beige;
+    display:flex;
+    gap:5px;
+}
+.navbar2{
+    display: flex;
+    gap:5px;
+}
+.im2{
+    max-width: 60px;
+    display:flex;
+    gap:5%;
+
+}
+.im3{
+    max-width: 60px;
+    border-radius: 300px;
+}
+.hero-image1{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("shoes12.webp");
+    height: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: aliceblue;
+    padding-top: 30%;
+    padding-left: 2%;
+    margin: 3%;
+    border-radius: 30px;
+    display: flex;
+}
+.hero-text{
+    text-align: left;
+    position: absolute;
+    color: white;
+    top: 60%;
+    left:60%;
+    transform: translate(-50%,-50%);
+    padding: 50px;
+    display:flex;
+}
+.hero-button1{
+ text-align: left;
+ position: left;
+ padding: 1%;
+ border-radius: 10px;
+
+}
+.line1{
+    display: flex;
+}
+.imgg1{
+    max-width: 40%;
+    border-radius: 20px;
+}
+.imgg2{
+    max-width: 70%;
+    border-radius: 20px;
+}
+.imgg3{
+    max-width: 100%;
+    border-radius: 20px;
+}
+.imgg4{
+    max-width: 90%;
+    border-radius: 20px;
+}
+.im4{
+    max-width:5% ;
+    display: flex;
+}
+.line2{
+    display: flex;
+    gap: 2%;
+}
+.imgg5{
+    max-width: 500px;
+}
+.imgg6{
+    max-width: 500px;
+}
+.imgg7{
+    max-width: 280px;
+}
+.line3{
+display:flex;
+gap: 40%;
+}
+.imgg8{
+    min-width: 190%;
+    border-radius: 5%;
+    margin: 5%;
+}
+.imgg9{
+    min-width:100% ;
+    border-radius: 5%;
+}
+.line4{
+    display: flex;
+}
+.imgg10{
+    max-width: 110%;
+}
+.imgg11{
+    max-width: 100%;
+}
+.imgg12{
+    max-width: 100%;
+}
+.heroimage2{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("shoes1.jpg");
+    height:30%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    color: aliceblue;
+    padding-top: 30%;
+    padding-left: 2%;
+    margin: 1%;
+    border-radius: 30px;
+    display: flex;
+}
+.herotext2{
+    text-align: left;
+    position: absolute;
+    color: white;
+    top: 60%;
+    left:60%;
+    transform: translate(-50%,-50%);
+    padding: 50px;
+    display:flex;
+}
+.herobutton2{
+    text-align: left;
+ position: left;
+ padding: 2px;
+ background-color: aliceblue;
+ border: 1px white;
+ border-radius: 10px;
+}
+.footer{
+    display:flex;
+    background-color: black;
+    color: aliceblue;
+    gap:5%;
+    border-radius: 30px;
+    padding-top:30px;
+}
+.im5{
+    max-width: 5%;
+}
+.im6{
+    max-width: 5%;
+}
+.im7{
+    max-width: 5%;
+}
+.below{
+    display:flex;
+    color:aliceblue;
+    background-color: black;
+    border-radius: 10px;
+    margin-top: 1%;
+}
