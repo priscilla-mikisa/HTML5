@@ -73,7 +73,7 @@ border-radius: 5px;
     display: flex;
 }
 .imgg1{
-    max-width: 40%;
+    max-width: 60%;
     border-radius: 20px;
 }
 .imgg2{
@@ -110,7 +110,7 @@ display:flex;
 gap: 40%;
 }
 .imgg8{
-    min-width: 190%;
+    min-width: 480px;
     border-radius: 5%;
     margin: 5%;
 }
@@ -125,10 +125,13 @@ gap: 40%;
     max-width: 110%;
 }
 .imgg11{
-    max-width: 100%;
+    max-width: 50%;
 }
 .imgg12{
-    max-width: 100%;
+    max-width: 50%;
+}
+.imgg13{
+    max-width: 90%;
 }
 .heroimage2{
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("shoes1.jpg");
@@ -185,4 +188,9 @@ gap: 40%;
     background-color: black;
     border-radius: 10px;
     margin-top: 1%;
+}
+.button{
+    padding: 5px;
+    border-radius: 10px;
+    margin: 1%;
 }
